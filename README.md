@@ -10,7 +10,7 @@ https://kevinfreeman1101.github.io/public_data/
 
 What's more fun and exciting than having a blog? Having a data science blog powered by Python and Jupyter Notebooks, of course!
 
-As a long-time public servant with a love for cutting edge technology, I have often desired to employ tools and methods that give me greater leverage over my workload. However, the tools and methods I know of that would get the job done also require software, hardware, and operating rights that would likely scare the pants right off of my IT administrators. To retain my sanity and ensure those pants stay right where they belong, this  blog contains the work that isn't strictly safe for work!
+As a long-time public servant with a love for cutting edge technology, I have often desired to employ tools and methods that give me greater leverage over my workload. However, the tools and methods I know to be effective also require software, hardware, and operating rights that would likely scare the pants right off of my IT administrators. To retain my sanity and ensure those pants stay right where they belong, this  blog contains the work that isn't strictly safe for work!
 
 You'll find no bureaucratic nonsense here; just lots of data and (hopefully) good insights. All content herein resides in the public domain. If you find something interesting, feel free to copy, paste, download, and enjoy.
 
