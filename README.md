@@ -6,24 +6,12 @@
 
 https://kevinfreeman1101.github.io/public_data/
 
-# My Blog
+# Kevin's Public Data Blog
 
+What's more fun and exciting than having a blog? Having a data science blog powered by Python and Jupyter Notebooks, of course!
 
-_powered by [fastpages](https://github.com/fastai/fastpages)_
+As a long-time public servant with a love for cutting edge technology, I have often desired to employ tools and methods that give me greater leverage over my workload. However, the tools and methods I prefer to use require software, hardware, and permissions that would likely scare the pants right off of our IT administrators. To retain my sanity and ensure those pants stay right where they belong, this  blog contains the work that isn't strictly safe for work!
 
+You'll find no bureaucratic nonsense here; just lots of data and (hopefully) good insights. The content herein resides in the public domain; if you find something interesting, feel free to copy, paste, download, and enjoy.
 
-## What To Do Next?
-
-Great!  You have setup your repo.  Now its time to start writing content.  Some helpful links:
-
-- [Writing Blogs With Jupyter](https://github.com/fastai/fastpages#writing-blog-posts-with-jupyter)
-
-- [Writing Blogs With Markdown](https://github.com/fastai/fastpages#writing-blog-posts-with-markdown)
-
-- [Writing Blog Posts With Word](https://github.com/fastai/fastpages#writing-blog-posts-with-microsoft-word)
-
-- [(Optional) Preview Your Blog Locally](_fastpages_docs/DEVELOPMENT.md)
-
-Note: you may want to remove example blog posts from the `_posts`,  `_notebooks` or `_word` folders (but leave them empty, don't delete these folders) if you don't want these blog posts to appear on your site.
-
-Please use the [nbdev & blogging channel](https://forums.fast.ai/c/fastai-users/nbdev/48) in the fastai forums for any questions or feature requests.
+Aut cum scuto aut in scuto!
